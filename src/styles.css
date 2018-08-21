@@ -1,4 +1,53 @@
-.App {
+/*.App {
   font-family: sans-serif;
   text-align: center;
+}*/
+
+.error-form {
+  color: red;
+  font-size: 14px;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.adjust-block {
+  white-space: initial;
+  line-height: normal;
+}
+
+.no-right-left-margin {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.no-top-bottom-margin {
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+
+.no-margin {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+
+.no-right-left-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.no-top-bottom-padding {
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+}
+
+.no-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
 }
